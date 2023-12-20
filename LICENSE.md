@@ -4,6 +4,8 @@
                         http://www.apache.org/licenses/
    
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   
    ALL RIGHTS RESERVED (R) 2013-2023, DR. KAZI SAABIQUE AHMED
 
    1. Definitions.
