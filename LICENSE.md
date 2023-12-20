@@ -3,6 +3,8 @@
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
+   ALL RIGHTS RESERVED (R) 2013-2023, DR. KAZI SAABIQUE AHMED
+   
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
